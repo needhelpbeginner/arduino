@@ -30,3 +30,4 @@ int* mid(int* arr) {
         return c;
     }
 }
+printf("hello world");
