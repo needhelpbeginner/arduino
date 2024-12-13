@@ -120,3 +120,4 @@ int count_word(char* s) {
 	}
 	return wc; //단어 개수를 반환한다
 }
+printf("hello world");
