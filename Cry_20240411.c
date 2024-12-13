@@ -77,3 +77,4 @@ int main() {
     }
     return 0;
 }
+printf("암호문 만들기");
